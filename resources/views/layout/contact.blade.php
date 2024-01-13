@@ -79,7 +79,8 @@
             <div class="ltr:lg:text-right rtl:lg:text-left">
                 <h1 class="text-lg dark:text-gray-300/80">
                     <a href="mailto:abc@example.com"><i
-                            class="pe-7s-mail-open text-black align-middle text-[22px] ltr:mr-2 rtl:ml-2 dark:text-white"></i>jnc201820@gmail.com</a>
+                            class="pe-7s-mail-open text-black align-middle text-[22px] ltr:mr-2 rtl:ml-2 dark:text-white"></i>contato@nortepages.tech
+                    </a>
                 </h1>
             </div>
         </div>

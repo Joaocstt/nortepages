@@ -28,6 +28,6 @@ class sendMailContact implements ShouldQueue
      */
     public function handle(): void
     {
-        Mail::to('nortepages@gmail.com', 'nortepages')->send(new SendMail($this->data));
+        Mail::to('contato@nortepages.tech', 'nortepages')->send(new SendMail($this->data));
     }
 }

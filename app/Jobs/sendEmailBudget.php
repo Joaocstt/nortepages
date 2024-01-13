@@ -29,7 +29,7 @@ class sendEmailBudget implements ShouldQueue
      */
     public function handle(): void
     {
-        Mail::to('nortepages@gmail.com','nortepages')->send(new sendBudget($this->data));
+        Mail::to('contato@nortepages.tech','nortepages')->send(new sendBudget($this->data));
 
     }
 }
