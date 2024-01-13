@@ -45,7 +45,7 @@
 
             <!-- Navbar Manu -->
             <div class="justify-between items-center w-full lg:w-auto lg:flex hidden lg:order-1 ltr:lg:ml-14 rtl:lg:mr-14 rtl:mr-0 ltr:ml-0" id="menu-collapse">
-                <ul class="navbar-nav lg:h-auto h-[290px] lg:overflow-visible overflow-y-scroll lg:ml-0 ml-8" id="navbar-navlist">
+                <ul class="navbar-nav lg:h-auto h-[200px] lg:ml-0 ml-8" id="navbar-navlist">
                     <li>
                         <a data-scroll href="{{ route('home') }}" class="nav-item">Página Inicial</a>
                     </li>

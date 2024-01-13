@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-br" data-mode="light" dir="ltr">
-
 <head>
     <meta charset="utf-8"/>
     <title>NortePages - Construa seu website conosco!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="description" content="NortePages - Sua escolha para construção de websites profissionais e impactantes. Desenvolvemos soluções digitais personalizadas para destacar sua presença online."/>
+    <meta name="description" content="NortePages - Sua escolha para construção de websites profissionais. Desenvolvemos soluções personalizadas para destacar sua presença online."/>
     <meta name="keywords" content="NortePages, construção de websites, desenvolvimento web, presença online, sites profissionais"/>
     <meta content="NortePages" name="author"/>
 
