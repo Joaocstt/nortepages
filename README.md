@@ -2,13 +2,15 @@
 
 Este repositório contém o código-fonte do meu site, onde apresento meus serviços de criação de sites e sistemas para vendas.
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas e Funcionalidades 🛠️
 
 O site é construído com o poderoso framework [Laravel](https://laravel.com), utilizando a template engine [Blade](https://laravel.com/docs/blade). Algumas das principais características do meu projeto incluem:
 
 - **Formulário de Contato via Email:** Utilize o formulário de contato integrado para enviar mensagens diretamente para o meu e-mail.
 
 - **Fila com Banco de Dados:** Para garantir uma comunicação eficiente, implementei uma fila com banco de dados. Isso proporciona uma experiência mais rápida e eficaz no processamento de solicitações de contato.
+
+- Este projeto foi desenvolvido com Tailwind CSS, proporcionando uma estilização moderna e flexível.
 
 ## Como utilizar 🤝
 
