@@ -4,7 +4,7 @@ Este repositório contém o código-fonte do meu site, onde apresento meus servi
 
 ## Tecnologias Utilizadas e Funcionalidades 🛠️
 
-O site é construído com o poderoso framework [Laravel](https://laravel.com), utilizando a template engine [Blade](https://laravel.com/docs/blade). Algumas das principais características do meu projeto incluem:
+O site é construído com o framework [Laravel](https://laravel.com), utilizando a template engine [Blade](https://laravel.com/docs/blade). Algumas das principais características do meu projeto incluem:
 
 - **Formulário de Contato via Email:** Utilize o formulário de contato integrado para enviar mensagens diretamente para o meu e-mail.
 
